@@ -1,6 +1,7 @@
 '''
 Project 3 - Text Adventure - Fall 2023  
 Author: John Lewis - lewis63
+Edited By Gavin Richeal
 
 This is the main Game class of the text adventure.
 It's responsible for cleaning the commands input by
